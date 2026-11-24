@@ -29,6 +29,9 @@ Both approaches will be evaluated against shared engineering and behavioral crit
 | --- | --- |
 | Development phase | MVP-1 — foundational implementation |
 | Engineering tests | 158 / 158 passed |
+| Last engineering update | 25 November 2026, 00:49 ICT |
+| Lines of code | 1,435 |
+| Source files | 24 |
 | Architecture candidates | 2 planned |
 | First implementation publication | 25 November 2026, ICT |
 
@@ -55,6 +58,6 @@ THOTH Systems is in active research and prototype development. This public profi
 
 Source code, detailed architecture specifications, and internal engineering records remain private.
 
-*Status snapshot: 25 November 2026. Metrics are reported development results, not live CI telemetry.*
+*Status snapshot: 25 November 2026, 00:49 ICT. Metrics are automatically updated after successful engineering tests, not live runtime telemetry.*
 
 © 2026 THOTH Systems. All rights reserved.
