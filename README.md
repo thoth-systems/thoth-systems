@@ -6,7 +6,7 @@ Proprietary AI Research & Development
 
 ![Development](https://img.shields.io/badge/Development-Active-238636)
 ![Phase](https://img.shields.io/badge/Phase-MVP--1-0969da)
-![Tests](https://img.shields.io/badge/Engineering%20tests-1329%2F1329%20passed-238636)
+![Tests](https://img.shields.io/badge/Engineering%20tests-1335%2F1335%20passed-238636)
 
 ## Research vision
 
@@ -28,8 +28,8 @@ Both approaches will be evaluated against shared engineering and behavioral crit
 | Indicator | Latest reported result |
 | --- | --- |
 | Development phase | MVP-1 — foundational implementation |
-| Engineering tests | 1329 / 1329 passed |
-| Last engineering update | 28 November 2026, 20:03 ICT |
+| Engineering tests | 1335 / 1335 passed |
+| Last engineering update | 29 November 2026, 00:51 ICT |
 | Lines of code | 6,550 |
 | Source files | 50 |
 | Architecture candidates | 2 planned |
@@ -58,6 +58,6 @@ THOTH Systems is in active research and prototype development. This public profi
 
 Source code, detailed architecture specifications, and internal engineering records remain private.
 
-*Status snapshot: 28 November 2026, 20:03 ICT. Metrics are automatically updated after successful engineering tests, not live runtime telemetry.*
+*Status snapshot: 29 November 2026, 00:51 ICT. Metrics are automatically updated after successful engineering tests, not live runtime telemetry.*
 
 © 2026 THOTH Systems. All rights reserved.
